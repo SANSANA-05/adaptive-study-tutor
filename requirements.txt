@@ -1,0 +1,14 @@
+langchain
+langgraph
+langchain-google-genai
+langchain-community
+langchain-chroma
+chromadb
+pypdf
+tavily-python
+mcp
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pydantic
